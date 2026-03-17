@@ -26,3 +26,17 @@ Repositorio personal de investigación y recopilación sobre Grindr.
 
 Contacto: @cerdaquirozr-cyber  
 Uso bajo responsabilidad propia.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/cerdaquirozr-cyber/Grindr-Research-Cerda?style=social)](https://github.com/cerdaquirozr-cyber/Grindr-Research-Cerda)
+
+### Capturas de la app (cuenta GHA64D2A47)
+
+| Ajustes                  | Perfil                     | Cuadrícula (Grid)          |
+|--------------------------|----------------------------|----------------------------|
+| ![Ajustes](Screens/ajustes.png) | ![Perfil](Screens/perfil.png) | ![Grid](Screens/grid.png) |
+
+## ⚠️ Advertencia
+Este repositorio es SOLO para fines educativos y de investigación.  
+No promuevo el uso de mods para evadir bans, violar términos de servicio ni actividades ilegales.  
+Usa GrindrPlus bajo tu propia responsabilidad. Grindr LLC puede detectar y banear cuentas modificadas.
